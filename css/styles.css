@@ -1,0 +1,30 @@
+:root{
+    --lavender: #d3e4ff;
+    --black:#000000
+
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table,
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid;
+}
+
+th{
+    background-color: var(--lavender);
+}
+table {
+    table-layout: fixed;
+    width: 50%;
+    border-collapse: collapse;
+    border: 1px solid purple;
+  }
+  
+  address{
+    font-style: normal;
+  }
