@@ -28,3 +28,16 @@ table {
   address{
     font-style: normal;
   }
+
+  nav > ul > li {
+    list-style-type: none;
+    display: inline;
+  }
+  .imagenes_gatitos {
+    display: flex; 
+    justify-content: space-between; 
+  }
+
+ figure>img{
+    width: 95%;
+  }
